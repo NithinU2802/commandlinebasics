@@ -1,0 +1,11 @@
+Exercise Files/
+README.md
+filelist.txt
+filelist2.txt
+filelist4.txt
+filelist5.txt
+myfiles.tar
+myfiles.tar.gz
+unpack/
+unpack2/
+Some txt
